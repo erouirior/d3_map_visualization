@@ -1,7 +1,9 @@
 # d3_map_visualization
 Image:
 ---
-- The maps: ![map](image/mapVisualization.png)
+- The maps: 
+![map](image/mapVisualization.png)
+![map](image/priceChroplethMap.png)
 
 Link:
 ---
